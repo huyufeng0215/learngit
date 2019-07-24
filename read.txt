@@ -3,8 +3,4 @@ Git is free software under the GPL
 Git has a mutable index called stage
 ara you sure
 create a new branch is quick
-<<<<<<< HEAD
 new  feature
-=======
-new  feature
->>>>>>> feature
